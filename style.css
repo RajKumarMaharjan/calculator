@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(177, 161, 161);
+}
+#cal{
+    background-color: aquamarine;
+    width: 200px;
+    padding: 20px;
+    border-radius: 5%;
+    border: 1px solid;
+    margin: 50px;
+}
+#Result{
+    background-color: darkgray;
+}
